@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9_-]+)$ detail-admin-verifikator.php?id_pendaftar=$1 [QSA,L]
+RewriteRule ^([a-zA-Z0-9_-]+)/$ detail-admin-verifikator.php?id_pendaftar=$1 [QSA,L]
+
+	
+Options -Indexes

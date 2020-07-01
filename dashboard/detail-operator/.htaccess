@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9_-]+)$ detail-operator.php?id_pendaftar=$1 [QSA,L]
+RewriteRule ^([a-zA-Z0-9_-]+)/$ detail-operator.php?id_pendaftar=$1 [QSA,L]
+
+RewriteRule ^([a-zA-Z0-9_-]+)$ detail-verifikator.php?id_pendaftar=$1 [QSA,L]
+RewriteRule ^([a-zA-Z0-9_-]+)/$ detail-verifikator.php?id_pendaftar=$1 [QSA,L]
+
+
+	
+Options -Indexes
