@@ -2,6 +2,10 @@
 
 <img src="https://files.itszami.my.id/files/5efc46c5b72b4.png">
 
+[![](https://img.shields.io/github/issues/zamisyh/e-ppdb?style=flat-square)](https://img.shields.io/github/issues/zamisyh/e-ppdb?style=flat-square) ![](https://img.shields.io/github/stars/zamisyh/e-ppdb?style=flat-square)
+![](https://img.shields.io/github/forks/zamisyh/e-ppdb?style=flat-square) ![](https://img.shields.io/github/license/zamisyh/e-ppdb?style=flat-square) [![HitCount](http://hits.dwyl.com/zamisyh/https://github.com/zamisyh/e-ppdb.svg)](http://hits.dwyl.com/zamisyh/https://github.com/zamisyh/e-ppdb) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg?style=flat-square)](https://code.visualstudio.com/) [![GitHub followers](https://img.shields.io/github/followers/zamisyh.svg?style=flat-square&label=Follow&maxAge=2592000)](https://github.com/zamisyh?tab=followers)
+
+
 This web-based e-PPDB was created using PHP 7 and MYSQL.
 I made this program to make it easier for students to register without having to go to school, but they can fill in the data online
 
