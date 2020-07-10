@@ -50,8 +50,13 @@ I made this program to make it easier for students to register without having to
 # Installation
 1. Download atau cloning repository github https://github.com/zamisyh/e-ppdb
 2. Turn on xampp and make sure apacha and mysql are on
-3. Open phpmyadmin and create the e-ppdb database name and import sql file. sql file is in the sql / e-ppdb.sql folder
+3. Open phpmyadmin and create the e-ppdb database name and import sql file. sql file is in the e-ppdb.sql 
 4. Enjoy...
+
+```
+Default admin : 
+Email: admin@gmail.com
+Password: admin123
 
 # Release date : 01 Juni 2020
 E-ppdb is an open source project created by Zamzam Saputra. You can download / fork / clone. Just give stars in this project to encourage me. Thank you!
