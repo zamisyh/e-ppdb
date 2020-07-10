@@ -57,6 +57,7 @@ I made this program to make it easier for students to register without having to
 Default admin : 
 Email: admin@gmail.com
 Password: admin123
+```
 
 # Release date : 01 Juni 2020
 E-ppdb is an open source project created by Zamzam Saputra. You can download / fork / clone. Just give stars in this project to encourage me. Thank you!
